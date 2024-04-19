@@ -5,19 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dcd23e0-3ceb-45c9-98e1-05c151a58746" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/metier/IMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/metier/MetierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/presentation/Presentation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2fKCwzb82vd6ZKJC3PgEQjUfaGP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Presentation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
